@@ -1,0 +1,31 @@
+.prod {}
+
+.prod__content {
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+}
+
+.prod__info {}
+
+.prod__title {
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+
+.prod__title span {
+    color: #598d66;
+    
+}
+
+.prod.__text {
+    
+
+}
+
+.btn {}
+
+.prod__btn {
+    margin-top: 60px;
+    padding: 20px 60px;
+}

@@ -1,0 +1,31 @@
+.header {
+    background-color: #E1EDE6;
+    padding: 33px 0 32px 0;
+}
+.header__content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__logo {
+    display: flex;
+    align-items: center;
+    column-gap: 8px;
+}
+.header__logo span{
+    font-family: var(--font-ral);
+    font-weight: 700;
+    font-size: 20px;
+    color: #598d66;
+}
+.ink {
+    display: flex;
+    align-items: center;
+    column-gap: 60px;
+}
+.ink__list-item {
+     font-family: var(--font-ral);
+     font-weight: 500;
+     font-size: 20px;
+     color: #2c2d35;
+}
